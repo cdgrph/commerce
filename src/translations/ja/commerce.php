@@ -422,7 +422,7 @@ return [
     'Settings' => 'Settings',
     'Settings saved.' => 'Settings saved.',
     'Shipping' => '配送',
-    'Shipping Address' => 'Shipping Address',
+    'Shipping Address' => '配送先住所',
     'Shipping Business Name' => 'Shipping Business Name',
     'Shipping Categories' => 'Shipping Categories',
     'Shipping Category' => 'Shipping Category',
