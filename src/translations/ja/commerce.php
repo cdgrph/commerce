@@ -22,7 +22,7 @@ return [
     'Adjustment' => '調整',
     'All' => 'All',
     'All Orders' => 'すべての注文',
-    'All products' => 'All products',
+    'All products' => 'すべての商品',
     'Allow' => 'Allow',
     'Allowed Qty' => 'Allowed Qty',
     'Amount' => 'Amount',
